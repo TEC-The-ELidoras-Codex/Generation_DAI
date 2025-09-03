@@ -1,0 +1,34 @@
+# Node
+node_modules/
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Next.js
+.next/
+out/
+.vercel/
+
+# Env
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store
+Thumbs.db
+# dependencies
+node_modules
+
+# next
+.next
+out
+
+# env
+.env*
+!.env.example
+
+# misc
+.DS_Store
+*.log

@@ -1,0 +1,9 @@
+- [x] Verify that the copilot-instructions.md file in the .github directory is created.
+- [x] Clarify Project Requirements: Next.js 14 TS, Tailwind, MDX wiki, agent API, Vitest.
+- [ ] Scaffold the Project: Files added; dependencies installing.
+- [ ] Customize the Project: Add agent providers & sample content.
+- [ ] Install Required Extensions: N/A.
+- [ ] Compile the Project: pending.
+- [ ] Create and Run Task: pending.
+- [ ] Launch the Project: pending.
+- [ ] Ensure Documentation is Complete: pending.
