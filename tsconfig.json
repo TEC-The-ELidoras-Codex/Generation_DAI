@@ -24,6 +24,9 @@
       ],
       "@/lib/*": [
         "lib/*"
+      ],
+      "next-mdx-import-source-file": [
+        "./mdx-components.tsx"
       ]
     },
     "types": [
