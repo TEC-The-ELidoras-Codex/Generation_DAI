@@ -1,0 +1,12 @@
+game_id: powerball
+seed: 713
+budget: 200
+ticket_cost: 2
+draws_to_play: 26
+strategies:
+  - quickpick
+  - wheel_k
+  - delta_system
+output_format: html
+evidence_level: full
+parental_mode: true
