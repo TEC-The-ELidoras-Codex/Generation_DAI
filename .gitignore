@@ -32,3 +32,9 @@ out
 # misc
 .DS_Store
 *.log
+
+# Lotto simulation output
+project_generation_dai_tec_lotto/runs/
+project_generation_dai_tec_lotto/test_run/
+project_generation_dai_tec_lotto/src/__pycache__/
+*.pyc
