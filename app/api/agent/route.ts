@@ -75,7 +75,7 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    const fullPrompt = context ? `${context}\n\n${prompt}` : context;
+    const fullPrompt = context ? `${context}\n\n${prompt}` : prompt;
     const result = await providerFn(fullPrompt);
 
     return NextResponse.json(result);
